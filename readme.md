@@ -1,4 +1,4 @@
-Ini adalah landing page sederhana untuk **CODEPOLITAN** yang dibuat menggunakan Tailwind CSS.
+landing page sederhana untuk **CODEPOLITAN** yang dibuat menggunakan Tailwind CSS.
 
 ## Fitur Utama
 
