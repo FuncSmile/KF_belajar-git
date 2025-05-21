@@ -12,6 +12,7 @@ landing page sederhana untuk **CODEPOLITAN** yang dibuat menggunakan Tailwind CS
 
 - **HTML5**
 - **Tailwind CSS**
+- **AosJS**
 
 ## Cara Menjalankan
 
